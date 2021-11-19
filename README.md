@@ -1,0 +1,2 @@
+# ClipboardCopyReactjsExample
+Created with CodeSandbox
